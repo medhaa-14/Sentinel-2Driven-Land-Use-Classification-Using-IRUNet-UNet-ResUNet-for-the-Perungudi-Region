@@ -1,0 +1,17 @@
+numpy
+scipy
+pandas
+scikit-learn
+matplotlib
+tensorflow
+keras
+opencv-python
+pillow
+albumentations
+tqdm
+pyyaml
+geopandas
+rasterio
+earthengine-api
+mongomock
+pymongo
