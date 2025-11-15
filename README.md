@@ -1,0 +1,2 @@
+# Sentinel-2Driven-Land-Use-Classification-Using-IRUNet-UNet-ResUNet-for-the-Perungudi-Region
+This repository contains the code, datasets on high-resolution land use and land cover (LULC) classification in the Perungudi region of Chennai, India using Sentinel-2 satellite imagery.The project implements a deep learning-based segmentation pipeline utilizing advanced architectures including IRUNet ,ResUNet,UNet
